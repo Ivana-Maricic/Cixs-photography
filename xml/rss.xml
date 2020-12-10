@@ -1,0 +1,17 @@
+<rss version="2.0">
+    <channel>
+        <title>Cixs Photography</title>
+        <link>index.html</link>
+        <description></description>
+        <item>
+            <title>COVID-19 UPDATE</title>
+            <link>index.html</link>
+            <description>Informisite se o novim promenama rada.</description>
+        </item>
+        <item>
+            <title>Galerija</title>
+            <link>gallery.html</link>
+            <description>Pogledajte moju galeriju što pre i ne propustite nove radove.</description>
+        </item>
+    </channel>
+</rss>
